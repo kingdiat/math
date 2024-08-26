@@ -1,5 +1,5 @@
 {
-    "name": "vendor/math",
+    "name": "kingdiat/math",
     "type": "library",
     "authors": [
         {
@@ -12,7 +12,7 @@
     },
     "autoload": {
       "psr-4": {
-        "Math\\": "src/"
+        "Kingdiat\\Math\\": "src/"
       }
     },
     "repositories": [
