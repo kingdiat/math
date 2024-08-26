@@ -1,5 +1,5 @@
 <?php
-namespace Kingdiat\Math;
+namespace kingdiat\Math;
 
 class SimpleMath {
   public static function add($a, $b) {
